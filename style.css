@@ -4,9 +4,11 @@ h1 {
   font-size: 69px;
 }
 
-table, th, td {
-  border: 1px solid black;
-  font-family: Arial, sans-serif;
-  text-align: center;
+th, td {
+  font-family: 'helvetica', sans-serif;
   font-size: 39px;
+  font-weight: 400;
+  padding: 20px;
+  text-align: center;
+  width: 33.3333%;
 }

@@ -24,3 +24,11 @@ thead th {
   letter-spacing: 2px;
   width: 60%;
 }
+
+html {
+    background: -webkit-linear-gradient(#93B874, #C9DCB9); 
+    background: -o-linear-gradient(#93B874, #C9DCB9); 
+    background: -moz-linear-gradient(#93B874, #C9DCB9); 
+    background: linear-gradient(#93B874, #C9DCB9); 
+    background-color: #93B874; 
+}

@@ -3,6 +3,8 @@ h1 {
   font-family: helvetica;
 }
 
-table, td {
+table, th, td {
   border: 1px solid black;
+  font-family: Arial, sans-serif;
+  text-align: center;
 }

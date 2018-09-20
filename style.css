@@ -4,7 +4,10 @@ h1 {
   font-size: 69px;
 }
 
-th, td {
+
+
+table, th, td {
+  border: 1px solid black;
   font-family: 'helvetica', sans-serif;
   font-size: 39px;
   font-weight: 400;

@@ -1,7 +1,7 @@
 h1 {
   color: blue;
   font-family: helvetica;
-  font-size: 69px;
+  font-size: 69px; 
 }
 
 table, th, td {
@@ -21,7 +21,7 @@ thead th {
   font-size: 30px;
   font-weight: 300;
   padding: 30px;
-  width: 60%;
+  width: 50%;
 }
 
 html {

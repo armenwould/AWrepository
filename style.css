@@ -26,9 +26,9 @@ thead th {
 }
 
 html {
-    background: -webkit-linear-gradient(#93B874, #C9DCB9); 
-    background: -o-linear-gradient(#93B874, #C9DCB9); 
-    background: -moz-linear-gradient(#93B874, #C9DCB9); 
-    background: linear-gradient(#93B874, #C9DCB9); 
-    background-color: #93B874; 
+    background: -webkit-linear-gradient(#ed2fe3, #4f0fff); 
+    background: -o-linear-gradient(#ed2fe3, #4f0fff); 
+    background: -moz-linear-gradient(#ed2fe3, #4f0fff); 
+    background: linear-gradient(#ed2fe3, #4f0fff); 
+    background-color: #ed2fe3; 
 }

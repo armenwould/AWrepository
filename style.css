@@ -13,3 +13,12 @@ table, th, td {
   text-align: center;
   width: 45%;
 }
+
+thead th {
+  background: #b2c661;
+  color: #FFF;
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 2px;
+}

@@ -4,8 +4,6 @@ h1 {
   font-size: 69px;
 }
 
-
-
 table, th, td {
   border: 1px solid black;
   font-family: 'helvetica', sans-serif;
@@ -13,5 +11,5 @@ table, th, td {
   font-weight: 400;
   padding: 20px;
   text-align: center;
-  width: 33.3333%;
+  width: 45%;
 }
